@@ -1,0 +1,8 @@
+SOURCE = \
+adjointOutletPressure/adjointOutletPressureFvPatchScalarField.C \
+adjointOutletPressurePower/adjointOutletPressurePowerFvPatchScalarField.C \
+adjointOutletVelocity/adjointOutletVelocityFvPatchVectorField.C \
+adjointOutletVelocityPower/adjointOutletVelocityPowerFvPatchVectorField.C \
+VCTopOpThermalFluid.C \
+
+# sources

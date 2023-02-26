@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "createFields.H": "cpp",
+        "myAdjointShapeOptimizationFoam.C": "cpp",
+        "VCTopOpThermalFluid.C": "cpp"
+    }
+}
